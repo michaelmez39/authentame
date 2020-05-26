@@ -11,3 +11,5 @@ actix-web = "2.0.0"
 actix-rt = "1.1.1"
 jsonwebtoken = "7.1.0"
 rust-argon2 = "0.8"
+serde = {version = "1.0", features=["derive"]}
+rand = "0.7"

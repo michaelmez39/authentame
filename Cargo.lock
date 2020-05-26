@@ -319,7 +319,9 @@ dependencies = [
  "actix-rt",
  "actix-web",
  "jsonwebtoken",
+ "rand",
  "rust-argon2",
+ "serde",
 ]
 
 [[package]]
